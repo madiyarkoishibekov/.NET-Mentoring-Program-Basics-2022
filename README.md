@@ -1,6 +1,6 @@
 # .NET Mentoring Program Basics 2022 consists of several modules
 ## Module 1. .NET Fundamentals
--- In this module, you will go through .NET ecosystem, its implementations and get an overview of the cross-platform development options via multitargeting. As a result of the module, you will create two projects in .NET Framework and .NET Core and a shared library.  
+In this module, you will go through .NET ecosystem, its implementations and get an overview of the cross-platform development options via multitargeting. As a result of the module, you will create two projects in .NET Framework and .NET Core and a shared library.  
 
 Questions for the self-check:
 
